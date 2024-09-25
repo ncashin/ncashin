@@ -1,4 +1,4 @@
-Hi I'm ✨ Natalie ✨
+Hi I'm Natalie 💖
 
 Recovering Graphics API Enthusiast 🖥️
 
