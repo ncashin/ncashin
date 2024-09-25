@@ -4,4 +4,4 @@ Recovering Graphics API Enthusiast 🖥️
 
 Current Web Development Troglodyte 🌐
 
-(If I push main it's an accident sry <3)
+If I push main it's an accident sry <3
