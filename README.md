@@ -1,5 +1,5 @@
 Hi I'm Natalie 💖
 
-Recovering Vulkan Enthusiast 🖥️
+Recovering GPU Enthusiast 🖥️
 
 Current Web Development Troglodyte 🌐
